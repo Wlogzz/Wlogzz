@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=wlogzz&color=brightgreen&label=Profile+Views)
 
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola!;Mi+Nombre+es+David+Garc%C3%ADa;Developer+Full+Stack++%F0%9F%94%A5;HTML+%2B+CSS+%2B+JS+%2B+PHP+;TypeScript+%2B+Angular;Java+%2B+Spring+Boot;Del+Huila+para+el+Mundo!+%F0%9F%8C%8E" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=1300&pause=700&center=true&width=435&lines=Hola!;Mi+Nombre+es+David+Garc%C3%ADa;Developer+Full+Stack+%F0%9F%94%A5;HTML+%2B+CSS+%2B+JS+%2B+PHP+;TypeScript+%2B+Angular;Java+%2B+Spring+Boot+%F0%9F%8D%83;Del+Huila+para+el+Mundo!+%F0%9F%8C%8E" alt="Typing SVG" /></a>
 </br>
 </br>
 
